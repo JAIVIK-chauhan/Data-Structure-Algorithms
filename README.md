@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
