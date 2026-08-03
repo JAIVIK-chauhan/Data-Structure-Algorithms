@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
