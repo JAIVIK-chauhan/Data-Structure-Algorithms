@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
