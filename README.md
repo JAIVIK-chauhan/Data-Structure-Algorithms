@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3271-hash-divided-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3271-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
