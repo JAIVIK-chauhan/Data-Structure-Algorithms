@@ -21,8 +21,8 @@ public:
             q.pop();
             if(node->val <= high && node->val >= low) sum = sum + node->val;
 
-            if(node->left)q.push(node->left);
-            if(node->right)q.push(node->right);
+            if(node->left && node->val >= low)q.push(node->left);
+            if(node->right && node->val <= high)q.push(node->right);
         }
         return sum;
     }
