@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
