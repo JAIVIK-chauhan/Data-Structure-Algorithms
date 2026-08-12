@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
