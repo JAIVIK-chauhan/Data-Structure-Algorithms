@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0941-valid-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
