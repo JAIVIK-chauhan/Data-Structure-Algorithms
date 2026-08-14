@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3271-hash-divided-string) |
 ## Greedy
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
