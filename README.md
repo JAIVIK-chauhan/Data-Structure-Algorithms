@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0941-valid-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
