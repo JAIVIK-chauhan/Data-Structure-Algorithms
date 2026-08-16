@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 ## Enumeration
 |  |
