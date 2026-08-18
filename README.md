@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
