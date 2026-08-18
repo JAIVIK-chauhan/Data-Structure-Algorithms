@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2843-count-symmetric-integers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3271-hash-divided-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
