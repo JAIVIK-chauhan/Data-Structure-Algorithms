@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
+| [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0941-valid-mountain-array) |
+| [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
