@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -241,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
