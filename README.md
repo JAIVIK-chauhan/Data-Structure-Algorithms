@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
