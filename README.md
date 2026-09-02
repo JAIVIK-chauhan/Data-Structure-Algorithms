@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
