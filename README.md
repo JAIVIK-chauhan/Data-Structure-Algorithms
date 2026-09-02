@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
