@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2951-find-the-peaks](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
