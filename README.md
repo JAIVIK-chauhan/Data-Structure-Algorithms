@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
