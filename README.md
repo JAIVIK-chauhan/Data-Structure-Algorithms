@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Stack
 |  |
 | ------- |
@@ -335,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
