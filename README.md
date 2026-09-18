@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2951-find-the-peaks](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2951-find-the-peaks) |
