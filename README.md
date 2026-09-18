@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Game Theory
