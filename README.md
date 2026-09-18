@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
+| [2317-maximum-xor-after-operations](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2317-maximum-xor-after-operations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2317-maximum-xor-after-operations](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2317-maximum-xor-after-operations) |
 | [2843-count-symmetric-integers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2317-maximum-xor-after-operations) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
