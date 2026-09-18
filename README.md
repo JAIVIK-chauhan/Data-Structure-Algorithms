@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [4054-count-shadow-pairs-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [4054-count-shadow-pairs-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [4054-count-shadow-pairs-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
