@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
