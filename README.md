@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Quickselect
 |  |
