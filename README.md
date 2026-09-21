@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3798-largest-even-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
