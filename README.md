@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -368,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [4054-count-shadow-pairs-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
