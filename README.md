@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0404-sum-of-left-leaves) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0222-count-complete-tree-nodes) |
