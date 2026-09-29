@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0200-number-of-islands) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
