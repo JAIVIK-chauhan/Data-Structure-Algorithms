@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -476,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1492-the-kth-factor-of-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
