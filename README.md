@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
@@ -493,4 +496,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
