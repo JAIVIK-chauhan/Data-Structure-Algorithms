@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
