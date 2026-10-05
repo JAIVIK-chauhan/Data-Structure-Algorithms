@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0414-third-maximum-number) |
 | [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
