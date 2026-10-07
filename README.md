@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1859-sorting-the-sentence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1710-maximum-units-on-a-truck](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
+| [1859-sorting-the-sentence](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -518,4 +520,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
