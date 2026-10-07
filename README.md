@@ -278,12 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0326-power-of-three) |
