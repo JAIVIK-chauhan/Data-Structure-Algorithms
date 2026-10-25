@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1763-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1763-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2317-maximum-xor-after-operations) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1763-longest-nice-substring) |
 | [1859-sorting-the-sentence](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1859-sorting-the-sentence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1763-longest-nice-substring) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sliding Window
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JAIVIK-chauhan/Data-Structure-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
